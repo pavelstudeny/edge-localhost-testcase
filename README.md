@@ -2,7 +2,9 @@ Edge Extenion Access to localhost
 =================================
 
 The localhost loopback is enabled by default nowadays.
+
 ![about:flags](about_flags.png)
+
 When you have a local http server running and
 enter a http://localhost URL to the adress bar,
 the contents will display as expected.
