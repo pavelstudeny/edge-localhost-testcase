@@ -1,0 +1,13 @@
+{
+  "name": "localhost",
+  "version": "1.0.0",
+  "description": "run a local web server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Avast",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
