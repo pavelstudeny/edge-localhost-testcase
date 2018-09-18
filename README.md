@@ -19,6 +19,9 @@ Setup
 * Go to about:flags and enable extension developer features.
 * Click the ... menu, then Extensions
 * Load this extension, set "Show button next to the address bar"
+
+![load](load.png) ![button](button.png) 
+
 * Click the extension button
 
 Result
